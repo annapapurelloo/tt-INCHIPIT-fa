@@ -1,5 +1,4 @@
 //  Module: fa
-// 
 
 module fa_module
     (
